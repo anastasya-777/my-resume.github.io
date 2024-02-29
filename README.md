@@ -39,6 +39,13 @@ _Предпочитаемый способ связи:_ WhatsApp +7(953)-006-75-
 12. Проведение нагрузочного тестирования(подглядывая)
 13. Умение систематизировать информацию
 
+## Портфолио:
+- [GitHub](https://github.com/anastasya-777?tab=repositories)
+- [Тест-план](https://docs.google.com/document/d/1scd7xrSIvfJJO76sskfHUFr0_qwUzZ_zIFzaeo2MyqA/edit?usp=sharing)
+- [Чек-листы](https://docs.google.com/document/d/18iefnpKfdJsZEZFCb32qFvDWjlOAluCDY7asPmFfK-s/edit?usp=sharing)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1rujh5JV4td32BmewJ-xalLta7oNAf5B3dq6q-fMdWoQ/edit?usp=sharing)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1q95kPUCrlXVZntOKeNBw8HGkbrVm7Ct6qLGY49WPenI/edit?usp=sharing)
+
 
 ## Опыт работы:
 1. "ООО ДИРЕКТ КРЕДИТ ЦЕНТР"
